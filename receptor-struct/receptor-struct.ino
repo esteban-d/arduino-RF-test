@@ -35,7 +35,7 @@ void loop() {
      radio.read(&coord,sizeof(coord));
      
      //reportamos por el puerto serial los datos recibidos
-     Serial.print("(" );
+     Serial.print("Datos Recibidos: (" );
      Serial.print(coord.x);
      Serial.print(" ; ");
      Serial.print(coord.y);
