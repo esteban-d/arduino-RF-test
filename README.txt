@@ -1,0 +1,1 @@
+Agregar la carpeta RFTypes en Documents\Arduino\libraries
